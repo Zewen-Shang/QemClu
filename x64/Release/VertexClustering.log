@@ -1,0 +1,14 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(VertexClustering.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Model.cpp
+F:\CppLib\Eigen\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CppLib\Eigen\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CppLib\Eigen\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\50120\Desktop\graduate\OctClustering\VertexClustering\Model.cpp(12,6): warning C4101: “temp”: 未引用的局部变量
+C:\Users\50120\Desktop\graduate\OctClustering\VertexClustering\Model.cpp(77,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\50120\Desktop\graduate\OctClustering\VertexClustering\Model.cpp(92,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 2101 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    114 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  VertexClustering.vcxproj -> C:\Users\50120\Desktop\graduate\OctClustering\x64\Release\OctClustering.exe
